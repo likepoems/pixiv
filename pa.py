@@ -7,7 +7,7 @@ headers = {
     'referer': 'https://www.pixiv.net/ranking.php?mode=daily&content=illust',
 }
 
-path = '/pics'
+path = './pics'
 repeat = 1
 repeat_user_name = 1
 
